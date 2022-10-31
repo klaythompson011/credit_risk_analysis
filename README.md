@@ -8,7 +8,6 @@ The purpose of this analysis is to apply six different machine learning models t
 ##
 Results
 
-###
 LendingClub provided a dataset of credit, which is inherently unbalanced as the number of good loans outnumber
 risky loans. The following are the six models that were applied. 
 •	Random Over Sampling (ROS): Oversampling approach in which the minority class are randomly selected and added
@@ -54,7 +53,6 @@ RFC showed the lowest recall at 37%. The recall shown by all other models ranged
 ##
 Summary
 
-###
 As the focus of the analysis is to predict high risk, based on the results obtained, the recommendation is to
 use model EEC for the following reasons:
 
